@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CesaoBarbearia</string>
+    <string name="desc_img_logo">Logo da barbearia</string>
+    <string name="nome_barbearia">Cesão Barbearia</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_telefone">Telefone</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_senha">Senha</string>
+    <string name="hint_nome">Digite seu nome completo</string>
+    <string name="hint_telefone">Ex: (11)11111-1111</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <string name="lbl_redefinir">Esqueci minha senha</string>
+    <string name="link_cadastro">Não tem uma conta? Cadastre-se</string>
+    <string name="btn_entrar">Entrar</string>
+</resources>
